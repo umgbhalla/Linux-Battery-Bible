@@ -26,7 +26,7 @@ Powertop is available on most package managers, for eg. on Ubuntu - `sudo apt in
 After installing powertop, run these commands - 
 ```
 sudo powertop --calibrate
-sudo powertop --autotune
+sudo powertop --auto-tune
 ```
 Remember that the calibration process might completely turn the display off, do not worry and try to not increase the brightness while it is calibrating. Calibration can take a while.
 
